@@ -23,7 +23,7 @@ public class Mobile {
 			int b= input[i+1];
 			Mobile mobileObj = new Mobile();
 			char req= (char)(mobileObj.mobi(a,b));
-			System.out.println(req+" ");
+			System.out.println(req+" T");
 		}
 		
 
